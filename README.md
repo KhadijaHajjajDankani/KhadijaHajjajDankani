@@ -13,5 +13,5 @@ This is a simple expense tracking system built using Python's object-oriented pr
 To run this project, ensure you have Python installed on your system. You can clone this repository using:
 
 ```bash
-git clone <your-repository-link>
-cd <your-repository-name>
+git clone <https://github.com/KhadijaHajjajDankani/KhadijaHajjajDankani>
+cd <KhadijaHajjajDankani>
